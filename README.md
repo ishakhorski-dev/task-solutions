@@ -1,1 +1,1 @@
-# task-solutions
+# Training task solutions
